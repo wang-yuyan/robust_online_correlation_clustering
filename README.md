@@ -3,7 +3,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Logo_for_Conference_on_Neural_Information_Processing_Systems.svg/1200px-Logo_for_Conference_on_Neural_Information_Processing_Systems.svg.png" width=200>
 
 Published at the following Github repository: 
-https://github.com/wang-yuyan/robust_online_correlation_clustering
+https://github.com/wang-yuyan/robust_online_correlation_clustering.git
 
 The ML Code Completeness Checklist consists of five items:
 
